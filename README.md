@@ -1,3 +1,3 @@
-# Deep Learning app (no user programming experience approach) 
+# Deep Learning app (no user programming) 
 
 All rightes reserved
